@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luciene
-- 👀 I’m interested in aprender programação.
+- 👀 I’m interested in learn programming.
 - 🌱 I’m currently learning HTML5, CSS3 e JS.
 - 💞️ I’m looking to collaborate on projetos do meu curso.
 - 📫 How to reach me: https://github.com/lucienelima8
