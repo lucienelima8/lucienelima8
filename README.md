@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luciene
+- 👋 Hi, I’m <b>Luciene
 - 👀 I’m interested in learn programming.
 - 🌱 I’m currently learning HTML5, CSS3 e JS.
 - 💞️ I’m looking to collaborate on projetos.
