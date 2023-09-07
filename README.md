@@ -1,6 +1,6 @@
 - 👋 <b>Hi, I’m Luciene
 - 👀 I’m interested in learn programming.
-- 🌱 I’m currently learning HTML5, CSS3 e JS.
+- 🌱 I’m currently learning HTML5, CSS3, Lógica de Programação, JavaScript, Bootstrap...
 - 💞️ I’m looking to collaborate on projetos.
 - 📫 How to reach me:
     <br><b>Meu linkedin: https://www.linkedin.com/in/lucienelima8/
