@@ -2,8 +2,7 @@
 - 👀 Learning programming.
 - 🌱 I’m currently learning HTML5, CSS3, Lógica de Programação, JavaScript, Bootstrap5, Python...
 - 💞️ I’m looking to collaborate on projetos.
-- Minha colaboração no projeto "recriando a rede social nostálgica Orkut":
-  <a href="https://otaviosouza21.github.io/orkut/home.html">
+
 
 - 📫 How to reach me:
     <br><b>Meu linkedin: https://www.linkedin.com/in/lucienelima8/
@@ -13,6 +12,9 @@
   <a href="https://github.com/lucienelima8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucienelima8&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucienelima8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  - Minha colaboração no projeto "recriando a rede social nostálgica Orkut":
+  <a href="https://otaviosouza21.github.io/orkut/home.html">
 
 </div>
 
